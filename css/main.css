@@ -65,6 +65,12 @@ body {
 .impression img {
     width: 100%;
 }
+.thank-you {
+    margin: 0 auto;
+    width: 75%;
+}
+.thank-you img {
+}
 
 
 p {
