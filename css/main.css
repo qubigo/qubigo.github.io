@@ -94,4 +94,23 @@ p {
 .formWrapper input[type=submit] {
     padding: 0.5rem 3rem;
     width: inherit;
+
+}
+.formWrapper input[type=submit]:hover {
+    cursor: pointer;
+}
+
+@media (max-width: 500px) {
+    :root {
+        --q-font-size: 1rem;
+    }
+    body {
+        line-height: 1rem; /* 137.5% */
+    }
+    p {
+        margin: 0.5rem 0;
+    }
+    .large-logo {
+        margin: 1em auto;
+    }
 }
