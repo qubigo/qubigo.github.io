@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+    <script type="text/javascript">var submitted=false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/thank-you.html';}"></iframe>
     <div class="container">
         <div class="large-logo">
             <img src="images/qubigo-logo-small.png" alt="qubigo-logo"/>
@@ -17,7 +19,11 @@
         <p>Thanks for your interest in our game!</p>
         <p>Leave your email for updates and game fun.</p>
 
-        <form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfT2swN3VCQUnda3ts0ieLxOP2esuiLtlE7s6WADvSDjioO7g/formResponse">
+        <form class="form"
+              action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfT2swN3VCQUnda3ts0ieLxOP2esuiLtlE7s6WADvSDjioO7g/formResponse"
+              method="post"
+              target="hidden_iframe"
+              onsubmit="submitted=true">
             <div class="formWrapper">
             <input type="email"
                    name="entry.1538940267"
@@ -30,8 +36,6 @@
             <input type="submit" value="Send" />
             </div>
         </form>
-
-
     </div>
 </body>
 </html>
