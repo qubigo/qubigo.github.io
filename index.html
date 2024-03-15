@@ -69,7 +69,130 @@
                 <input type="submit" value="Send" />
             </div>
         </form>
-
+        <div class="doc-page">
+            <div class="doc-section">
+                <h1>Game rules</h1>
+                <p>
+                    The game is played on a cube with 27 positions.
+                    Players take turns placing a stone in one of these positions.
+                    The pieces come in three shapes, three colors, and three structures.
+                </p>
+                <p>
+                    The objective of the game is to create a series of three pieces with
+                    a common characteristic in a row, in any direction.
+                </p>
+                <div class="image-row">
+                    <img src="images/3-in-row-pic1.png" alt="">
+                    <img src="images/3-in-row-pic2.png" alt="">
+                    <img src="images/3-in-row-pic3.png" alt="">
+                </div>
+            </div>
+            <div class="doc-section">
+                <p>To make a move</p>
+                <div class="image-row">
+                    <img src="images/screen_start.png"/>
+                    <ol>
+                        <li>select piece</li>
+                        <li>select position</li>
+                        <li>press ok button</li>
+                    </ol>
+                    <img src="images/screen_result.png"/>
+                </div>
+            </div>
+            <div class="doc-section">
+                <p>If a player creates a series of three pieces with a common
+                    characteristic in a row, they earn a point.</p>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_open_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/sphere_plus_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_yellow.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x yellow = 1 point</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/cube_plus_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_red.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_open_yellow.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x cube = 1 point</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_solid_red.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/sphere_solid_green.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x solid = 1 point</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_open_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_open_red.png" class="piece" alt="">
+                        <img src="images/pieces/2d/sphere_open_yellow.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x open = 1 point</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_plus_red.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_plus_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/sphere_plus_green.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x plus = 1 point</div>
+                </div>
+            </div>
+            <div class="doc-section">
+                <p>If a player creates a series of three pieces with two
+                    common characteristics in a row, they earn two points.</p>
+                <div class="doc-example">
+                    <div class="image-row pieces">
+                        <img src="images/pieces/2d/cube_solid_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_red.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x solid cube = 2 points</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_plus_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_plus_green.png" class="piece" alt="">
+                        <img src="images/pieces/2d/sphere_plus_green.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x green plus = 2 points</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/pyramid_open_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/pyramid_open_red.png" class="piece" alt="">
+                        <img src="images/pieces/2d/pyramid_open_green.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x open pyramid = 2 points</div>
+                </div>
+                <div class="doc-example">
+                    <div class="image-row">
+                        <img src="images/pieces/2d/cube_plus_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_solid_yellow.png" class="piece" alt="">
+                        <img src="images/pieces/2d/cube_open_yellow.png" class="piece" alt="">
+                    </div>
+                    <div class="image-explain">3 x yellow cube = 2 points</div>
+                </div>
+            </div>
+            <div class="doc-section">
+                <p>The game continues until all positions on the cube are filled,
+                    at which point the player with the most points wins.</p>
+            </div>
+        </div>
+        <form class="form"
+              action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfT2swN3VCQUnda3ts0ieLxOP2esuiLtlE7s6WADvSDjioO7g/formResponse"
+              method="post" target="hidden_iframe" onsubmit="submitted=true">
+            <div class="formWrapper">
+                <input type="email" name="entry.1538940267" placeholder="Email address" tabindex="0" required=""
+                       dir="auto" data-lpignore="true" data-initial-dir="auto" data-initial-value="">
+                <input type="submit" value="Send" />
+            </div>
+        </form>
     </div>
 </body>
 
