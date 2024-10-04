@@ -5,9 +5,9 @@
     --q-lightgrey: #A1A9B6;
     --q-offwhite: #DADDE2;
     --q-white: #FFFFFF;
-    --q-blue: #0A50C8;
-    --q-green: #0A6E0A;
-    --q-yellow: #FADC32;
+    --q-blue: #1A5EBF;
+    --q-green: #00AB6D;
+    --q-yellow: #EBD500;
     --q-red: #DC0A0A;
     --foreground-color: var(--q-offwhite);
     --highlight-color: var(--q-offwhite);
