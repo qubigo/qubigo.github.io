@@ -216,7 +216,7 @@ p {
 
 .doc-example .image-explain {
     margin: auto 0;
-    font-size: 12px;
+     font-size: var(--q-font-size);
 }
 
 .navbar {
