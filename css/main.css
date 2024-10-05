@@ -146,7 +146,7 @@ p {
     padding: 0.5rem;
     width: 15em;
     border: 2px solid var(--q-offwhite);
-    background-color: var(--q-black);
+    background-color: var(--q-darkgrey);
     color: var(--q-offwhite);
     border-radius: 0.75rem;
 }
@@ -175,7 +175,7 @@ p {
 }
 
 .doc-page {
-    background-color: var(--q-black);
+    background-color: var(--q-darkgrey);
     color: var(--q-white);
 }
 .doc-section {
