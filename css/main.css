@@ -35,7 +35,7 @@ html, body {
 
 body {
     font-feature-settings: 'calt' off;
-    font-family: Nunito, sans-serif;
+    font-family: nunito, sans-serif;
     font-style: normal;
     line-height: 1.375rem; /* 137.5% */
 }
@@ -162,7 +162,7 @@ p {
     background-color: var(--q-offwhite);
     font-weight: bold;
     color: var(--q-darkgrey);
-    padding: 0.5rem 7.3rem;
+    padding: 0.5rem 7rem;
     width: inherit;
 
 }
@@ -222,6 +222,7 @@ p {
     margin: 0;
     padding: 0.60em 1.15em;
     background-color: var(--q-lightgrey);
+    font-weight: normal;
     color: var(--q-offwhite);
 }
 
@@ -234,7 +235,7 @@ p {
 }
 
 .doc-section .image-row img {
-    width: 50%;
+    width: 80%;
 }
 .doc-section .image-row ol {
     padding-left: 1.75rem;
