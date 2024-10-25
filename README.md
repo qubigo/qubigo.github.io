@@ -1,4 +1,4 @@
 # qubigo.github.io
 QubiGo Landing page
 
-blah
+van alles gewijzigd, grafisch en tekst
