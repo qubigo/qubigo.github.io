@@ -230,6 +230,7 @@ p {
     padding: 0.5em 1.15em;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
 }
 
 .doc-section .image-row img {
