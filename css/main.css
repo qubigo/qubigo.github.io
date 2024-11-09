@@ -73,12 +73,12 @@ body {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    transition: 5s;
+    transition: 2s;
 
     animation-name: fader;
     animation-play-state: running;
     animation-direction: alternate-reverse;
-    animation-duration: 35s;
+    animation-duration: 15s;
     animation-timing-function: ease-in-out;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
