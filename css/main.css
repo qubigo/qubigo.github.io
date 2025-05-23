@@ -129,10 +129,16 @@ h1 .subtitle {
     font-size: smaller;
 }
 
+h2 {
+    font-size: large;
+    margin-bottom: 1rem;
+}
+
 h3 {
     font-size: large;
     margin-bottom: 1rem;
 }
+
 
 p {
     font-size: var(--q-font-size);
@@ -140,6 +146,11 @@ p {
     margin: 0.5rem 1.3rem;
     line-height: normal;
     color: var(--q-offwhite);
+}
+
+
+.privacy p {
+    text-align: unset;
 }
 
 .formWrapper {
