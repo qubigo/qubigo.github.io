@@ -1,0 +1,50 @@
+.slideshow .packaging-impression {
+    width: 100%;
+    height: 100%;
+    margin: 0 0 1rem 0;
+    position: absolute;
+    background-image: url("/images/cube_solo_bw.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 2s;
+
+    animation-name: packaging-fader;
+    animation-play-state: running;
+    animation-direction: alternate-reverse;
+    animation-duration: 15s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes packaging-fader {
+    0% { background-image: url("/images/lola_cube_bw.png"); }
+    16.6% { background-image: url("/images/daan_cube_bw.png"); }
+    33.3% { background-image: url("/images/kathinka_cube_bw.png"); }
+    50% { background-image: url("/images/freek_cube_bw.png"); }
+    66.7% { background-image: url("/images/hans_cube_bw.png"); }
+    83.3% { background-image: url("/images/milou_cube_bw.png"); }
+    100% { background-image: url("/images/cube_solo_bw.png"); }
+}
+
+.packaging-fader:nth-child(1) {--i: 0;}
+.packaging-fader:nth-child(2) {--i: 1;}
+.packaging-fader:nth-child(3) {--i: 2;}
+.packaging-fader:nth-child(4) {--i: 3;}
+.packaging-fader:nth-child(5) {--i: 4;}
+.packaging-fader:nth-child(6) {--i: 5;}
+.packaging-fader:nth-child(7) {--i: 7;}
+
+.packaging-impression img {
+    width: 100%;
+    height: 100%;
+}
+
+
+@media (max-width: 500px) {
+    .packaging-impression {
+        padding: 0 2.3rem;
+    }
+}
+
