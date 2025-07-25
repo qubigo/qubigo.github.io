@@ -209,7 +209,7 @@ p {
         line-height: 1rem; /* 137.5% */
     }
     .large-logo {
-        margin: 1em auto;
+        margin: 1rem 2rem;
     }
     .impression {
         padding: 0 2.3rem;
