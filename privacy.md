@@ -1,3 +1,7 @@
+---
+layout: privacy
+---
+
 # Qubigo privacy Policy
 
 ## What data do we collect?
