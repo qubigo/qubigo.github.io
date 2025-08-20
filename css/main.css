@@ -120,7 +120,12 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: large;
+    margin: 0;
+    padding: 0.60em 1.15em;
+    background-color: var(--q-lightgrey);
+    color: var(--q-white);
+    font-size: x-large;
+    font-weight: normal;
     margin-bottom: 1rem;
 }
 
@@ -141,7 +146,7 @@ h3 {
 
 p {
     font-size: var(--q-font-size);
-    text-align: center;
+    text-align: left;
     margin: 0.5rem 1.3rem;
     line-height: normal;
     color: var(--q-offwhite);
@@ -221,37 +226,20 @@ p {
     color: var(--q-offwhite);
     margin-top: 1rem;
 }
-.doc-section {
-    margin-top: 1rem;
-    text-align: center;
-    border-bottom: 1px solid var(--q-offwhite);
-    padding: 0.5rem 0;
-}
-
-.doc-section:last-of-type {
-    border: none;
-}
-
-.doc-page h1, h2 {
-    margin: 0;
-    padding: 0.60em 1.15em;
-    background-color: var(--q-lightgrey);
-    font-weight: normal;
-    color: var(--q-offwhite);
-}
 
 
-.doc-section .image-row {
+
+.image-row {
     padding: 0.5em 1.15em;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-items: center;
 }
 
-.doc-section .image-row img {
+.image-row img {
     width: 80%;
 }
-.doc-section .image-row ol {
+.image-row ol {
     padding-left: 1.75rem;
     font-size: smaller;
 }
