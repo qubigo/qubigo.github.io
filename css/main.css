@@ -68,7 +68,7 @@ body {
     height: 100%;
     margin: 0 0 1rem 0;
     position: absolute;
-    background-image: url("/images/cube_solo_bw.png");
+    background-image: url("/images/cube_solo_bw_800.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -84,13 +84,13 @@ body {
 }
 
 @keyframes fader {
-    0% { background-image: url("/images/lola_cube_bw.png"); }
-    16.6% { background-image: url("/images/daan_cube_bw.png"); }
-    33.3% { background-image: url("/images/kathinka_cube_bw.png"); }
-    50% { background-image: url("/images/freek_cube_bw.png"); }
-    66.7% { background-image: url("/images/hans_cube_bw.png"); }
-    83.3% { background-image: url("/images/milou_cube_bw.png"); }
-    100% { background-image: url("/images/cube_solo_bw.png"); }
+    0% { background-image: url("/images/lola_cube_bw_800.png"); }
+    16.6% { background-image: url("/images/daan_cube_bw_800.png"); }
+    33.3% { background-image: url("/images/kathinka_cube_bw_800.png"); }
+    50% { background-image: url("/images/freek_cube_bw_800.png"); }
+    66.7% { background-image: url("/images/hans_cube_bw_800.png"); }
+    83.3% { background-image: url("/images/milou_cube_bw_800.png"); }
+    100% { background-image: url("/images/cube_solo_bw_800.png"); }
 }
 
 .fader:nth-child(1) {--i: 0;}
@@ -212,6 +212,15 @@ p {
     }
     body {
         line-height: 1rem; /* 137.5% */
+    }
+    @keyframes fader {
+        0% { background-image: url("/images/lola_cube_bw_400.png"); }
+        16.6% { background-image: url("/images/daan_cube_bw_400.png"); }
+        33.3% { background-image: url("/images/kathinka_cube_bw_400.png"); }
+        50% { background-image: url("/images/freek_cube_bw_400.png"); }
+        66.7% { background-image: url("/images/hans_cube_bw_400.png"); }
+        83.3% { background-image: url("/images/milou_cube_bw_400.png"); }
+        100% { background-image: url("/images/cube_solo_bw_400.png"); }
     }
     .large-logo {
         margin: 1rem 2rem;
