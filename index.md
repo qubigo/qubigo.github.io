@@ -8,7 +8,7 @@ title: Qubigo
 </h1>
 
 
-Qubigo is a strategic game designed for 2-3 players, where the goal is to create a row of 3 pieces with a shared characteristic. It can be played on different levels of complexity.
+Qubigo is a strategic game designed for 2-3 players, where the goal is to create a row of 3 pieces with a shared feature. It can be played on different levels of complexity.
 
 <div class="formWrapper">
     <a class="button-link" href="https://shop.qubigo.com" target="_blank">Order your Qubigo game</a>
@@ -61,7 +61,7 @@ To make the game more challenging, you can make more than three pieces visible t
 
 ## Objective
 
-Be the player who scores the most points by lining up three pieces that share a common characteristic in any direction:
+Be the player who scores the most points by lining up three pieces that share a common feature in any direction:
 
 <div class="doc-example">
     <div class="image-explain">color, e.g.:</div>
