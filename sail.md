@@ -26,4 +26,11 @@ mind and calculated risk-taking.
     <img src="images/dutch/dutch_closed_400x400.png" alt="dutch closed"/>
 </div>
 
+# The classic edition
+
+Are your more interested in the classic edition? Click the image below.
+
+<a href="/">
+<img src="images/cube_solo_bw_400.png" alt="the classic edition"/>
+</a>
 

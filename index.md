@@ -26,6 +26,15 @@ The desktop version is now for sale, made in Amsterdam by our founders Rob and A
     <img src="images/perspectief_bw.png?0.3.3" alt="">
 </div>
 
+# The dutch edition
+
+Are your more interested in the duch edition? Click the image below.
+
+<a href="/sail">
+<img src="images/dutch/dutch_open_filled_400x400.png" alt="dutch open filled"/>
+</a>
+
+
 # Qubigo app
 
 With the Qubigo app you can challenge your friends anytime, anywhere.
