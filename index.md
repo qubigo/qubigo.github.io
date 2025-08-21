@@ -45,7 +45,7 @@ Leave your email and we let you know when the app is released.
 
 # Setting up
 
-1. take the cube out - it's packaed with all the pieces.
+1. Take the cube out - it's packaged with all the pieces.
 ![take the cube out](images/manual/1-get-out.png)
 2. Twist the magnetic box to find the small hole - it's now a shaker!
 ![twist the box](images/manual/2-turn.png)
@@ -90,37 +90,17 @@ Be the player who scores the most points by lining up three pieces that share a 
 
 ## Gameplay
 
-1. Players gtake turns making a move.
+1. Players take turns making a move.
 1. Place one of your pieces in an open position in any layer in the cube.
 1. The layers fit only in 1 way, Align the Q logo in the middel to click them together.
 ![place](images/manual/5-place.png)
 1. After placin a piece, shake out a new one so you always have three visible.
 5. Record your points. Game ends when the cube is full. Highest score wins.
 
-Start with an empty cube and all pieces in the bag. 
-
-Each player takes out a number of pieces and places them on the table, visible
-for the opponent.
-
-Pioneers and kids: take 1 piece each. 
-
-Advanced players: take 5 pieces each. 
-
-Master level: take 13 pieces each, place the remaining piece on a random
-position in the cube.
-
-Turn by turn, place a piece in any of the three layers of the cube. After each
-move pick a new piece from the bag. Note the score on paper or download app for
-score keeping.
-
-The game continues until all positions on the cube are filled; the player with
-the most points wins.
-
-
 ## Scoring
 
 A row with **one** shared feature gives 1 point.  
-For example 
+For example:
 
 <div class="doc-example">
     <div class="image-row">

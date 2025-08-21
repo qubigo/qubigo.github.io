@@ -120,7 +120,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    margin: 0;
+    margin: 1rem 0;
     padding: 0.60em 1.15em;
     background-color: var(--q-lightgrey);
     color: var(--q-white);
@@ -238,7 +238,7 @@ p {
 
 ol {
     margin-right: 1.3rem;
-    line-hight: normal;
+    line-height: normal;
 }
 ol img {
     width: calc(100% - 2.6rem);
