@@ -8,7 +8,7 @@ title: Qubigo
 </h1>
 
 
-Qubigo is a strategic game designed for 2 players, where the goal is to create a row of 3 pieces with a shared characteristic. It can be played on different levels of complexity.
+Qubigo is a strategic game designed for 2-3 players, where the goal is to create a row of 3 pieces with a shared characteristic. It can be played on different levels of complexity.
 
 <div class="formWrapper">
     <a class="button-link" href="https://shop.qubigo.com" target="_blank">Order your Qubigo game</a>
@@ -18,8 +18,7 @@ Players must develop a 3D strategy while preventing their friends from scoring
 points. With just 27 moves to victory, Qubigo is a game that requires a sharp
 mind and calculated risk-taking.
 
-The desktop version is now for sale in a limited edition of 99 pieces, handmade
-by our founders Rob and Anton in their startup garage!
+The desktop version is now for sale, made in Amsterdam by our founders Rob and Anton.
 
 <div class="image-row">
     <img src="images/cube_gesloten_bw.png?0.3.3" alt="">
@@ -44,19 +43,59 @@ Leave your email and we let you know when the app is released.
     </div>
 </form>
 
+# Setting up
+
+1. take the cube out - it's packaed with all the pieces.
+![take the cube out](images/manual/1-get-out.png)
+2. Twist the magnetic box to find the small hole - it's now a shaker!
+![twist the box](images/manual/2-turn.png)
+3. Pour all pieces from the cube into the shaker.
+![fill the shaker](images/manual/3-fill.png)
+4. Shake out 3 pieces each and place them in front of you.
+![shake out](images/manual/4-shake.png)
+
+To make the game more challenging, you can make more than three pieces visible to all players. Ultimate challenge: make all of them visible.
 
 # Game rules
 
-The game is played on a cube with 27 positions.
-Players take turns placing a piece in one of these positions.
-The objective of the game is to create a series of 3 pieces with one or more
-common characteristics in a row, in any direction.
 
-<div class="image-row">
-    <img src="images/3-in-row-pic1.png?0.3.3" alt="">
-    <img src="images/3-in-row-pic2.png?0.3.3" alt="">
-    <img src="images/3-in-row-pic3.png?0.3.3" alt="">
+## Objective
+
+Be the player who scores the most points by lining up three pieces that share a common characteristic in any direction:
+
+<div class="doc-example">
+    <div class="image-explain">color, e.g.:</div>
+    <div class="image-row">
+        <img src="images/pieces/2d/pyramid_open_yellow.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/sphere_stripe_yellow.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/cube_solid_yellow.png?0.3.3" class="piece" alt="">
+    </div>
 </div>
+<div class="doc-example">
+    <div class="image-explain">shape, e.g.:</div>
+    <div class="image-row">
+        <img src="images/pieces/2d/cube_stripe_green.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/cube_solid_red.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/cube_open_yellow.png?0.3.3" class="piece" alt="">
+    </div>
+</div>
+<div class="doc-example">
+    <div class="image-explain">structure, e.g.:</div>
+    <div class="image-row">
+        <img src="images/pieces/2d/pyramid_solid_red.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/cube_solid_green.png?0.3.3" class="piece" alt="">
+        <img src="images/pieces/2d/sphere_solid_green.png?0.3.3" class="piece" alt="">
+    </div>
+</div>
+
+## Gameplay
+
+1. Players gtake turns making a move.
+1. Place one of your pieces in an open position in any layer in the cube.
+1. The layers fit only in 1 way, Align the Q logo in the middel to click them together.
+![place](images/manual/5-place.png)
+1. After placin a piece, shake out a new one so you always have three visible.
+5. Record your points. Game ends when the cube is full. Highest score wins.
 
 Start with an empty cube and all pieces in the bag. 
 
@@ -78,12 +117,10 @@ The game continues until all positions on the cube are filled; the player with
 the most points wins.
 
 
-# Scoring
+## Scoring
 
-The pieces come in 3 shapes, 3 colors, and 3 structures.
-
-If a player creates a series of 3 pieces with a common characteristic in a row,
-they earn a point.
+A row with **one** shared feature gives 1 point.  
+For example 
 
 <div class="doc-example">
     <div class="image-row">
@@ -91,15 +128,11 @@ they earn a point.
         <img src="images/pieces/2d/sphere_stripe_yellow.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_solid_yellow.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x yellow = 1 point</div>
-</div>
-<div class="doc-example">
     <div class="image-row">
         <img src="images/pieces/2d/cube_stripe_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_solid_red.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_open_yellow.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x cube = 1 point</div>
 </div>
 <div class="doc-example">
     <div class="image-row">
@@ -107,27 +140,15 @@ they earn a point.
         <img src="images/pieces/2d/cube_solid_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/sphere_solid_green.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x solid = 1 point</div>
-</div>
-<div class="doc-example">
     <div class="image-row">
         <img src="images/pieces/2d/pyramid_open_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_open_red.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/sphere_open_yellow.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x open = 1 point</div>
-</div>
-<div class="doc-example">
-    <div class="image-row">
-        <img src="images/pieces/2d/pyramid_stripe_red.png?0.3.3" class="piece" alt="">
-        <img src="images/pieces/2d/cube_stripe_yellow.png?0.3.3" class="piece" alt="">
-        <img src="images/pieces/2d/sphere_stripe_green.png?0.3.3" class="piece" alt="">
-    </div>
-    <div class="image-explain">3 x striped = 1 point</div>
 </div>
 
-If a player creates a series of three pieces with 2 common characteristics in a
-row, they earn 2 points.
+A row with **two** shared features gives two points.  
+For example:
 
 <div class="doc-example">
     <div class="image-row pieces">
@@ -135,15 +156,11 @@ row, they earn 2 points.
         <img src="images/pieces/2d/cube_solid_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_solid_red.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x solid cube = 2 points</div>
-</div>
-<div class="doc-example">
     <div class="image-row">
         <img src="images/pieces/2d/pyramid_stripe_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_stripe_green.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/sphere_stripe_green.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x green striped = 2 points</div>
 </div>
 <div class="doc-example">
     <div class="image-row">
@@ -151,15 +168,11 @@ row, they earn 2 points.
         <img src="images/pieces/2d/pyramid_open_red.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/pyramid_open_green.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x open pyramid = 2 points</div>
-</div>
-<div class="doc-example">
     <div class="image-row">
         <img src="images/pieces/2d/cube_stripe_yellow.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_solid_yellow.png?0.3.3" class="piece" alt="">
         <img src="images/pieces/2d/cube_open_yellow.png?0.3.3" class="piece" alt="">
     </div>
-    <div class="image-explain">3 x yellow cube = 2 points</div>
 </div>
 
 # Score keeping & online fun

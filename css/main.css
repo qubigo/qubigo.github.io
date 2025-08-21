@@ -236,6 +236,14 @@ p {
     margin-top: 1rem;
 }
 
+ol {
+    margin-right: 1.3rem;
+    line-hight: normal;
+}
+ol img {
+    width: calc(100% - 2.6rem);
+    padding: 0.5rem 1.3rem;
+}
 
 
 .image-row {
@@ -256,6 +264,7 @@ p {
 .doc-example {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin: 0.5rem 1.3rem;
 }
 
 .doc-example .image-explain {
