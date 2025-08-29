@@ -28,7 +28,7 @@ The desktop version is now for sale, made in Amsterdam by our founders Rob and A
 
 # The Dutch edition
 
-Are your more interested in the duch edition? Click the image below.
+Are your more interested in the Dutch edition? Click the image below.
 
 <a href="/sail">
 <img src="images/dutch/dutch_open_filled_400x400.png" alt="dutch open filled"/>
