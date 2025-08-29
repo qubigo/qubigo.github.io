@@ -26,7 +26,7 @@ The desktop version is now for sale, made in Amsterdam by our founders Rob and A
     <img src="images/perspectief_bw.png?0.3.3" alt="">
 </div>
 
-# The dutch edition
+# The Dutch edition
 
 Are your more interested in the duch edition? Click the image below.
 
@@ -103,7 +103,7 @@ Be the player who scores the most points by lining up three pieces that share a 
 1. Place one of your pieces in an open position in any layer in the cube.
 1. The layers fit only in 1 way, Align the Q logo in the middel to click them together.
 ![place](images/manual/5-place.png)
-1. After placin a piece, shake out a new one so you always have three visible.
+1. After placing a piece, shake out a new one so you always have three visible.
 5. Record your points. Game ends when the cube is full. Highest score wins.
 
 ## Scoring
@@ -166,7 +166,7 @@ For example:
 
 # Score keeping & online fun
 
-The Qubigo app can help you keep to keep the scores.
+The Qubigo app can help you to keep the scores.
 
 It also features a timer, to make the gameplay more dynamic.
 
