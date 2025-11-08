@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: The QubiGo App
 ---
@@ -17,10 +17,8 @@ Leave your email and we let you know when the app is released.
     action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfT2swN3VCQUnda3ts0ieLxOP2esuiLtlE7s6WADvSDjioO7g/formResponse"
     method="post" target="hidden_iframe" onsubmit="submitted=true">
     <div class="formWrapper">
-        <input type="email name="entry.1538940267" placeholder="Email address" tabindex="0" required=""
+        <input type="email" name="entry.1538940267" placeholder="Email address" tabindex="0" required=""
             dir="auto" data-lpignore="true" data-initial-dir="auto" data-initial-value="">
         <input type="submit" value="Send" />
     </div>
 </form>
-
-
