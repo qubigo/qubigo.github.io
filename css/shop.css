@@ -1,0 +1,8 @@
+@import url('main-layout.css');
+
+.large-logo img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+

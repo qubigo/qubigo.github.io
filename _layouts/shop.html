@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/shop.css?12333345">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YYSJWTWYGN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YYSJWTWYGN');
+    </script>
+</head>
+
+<body>
+    <script type="text/javascript">var submitted = false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+        onload="if(submitted)  {window.location='/thank-you.html';}"></iframe>
+        <div class="container">
+            <div class="large-logo">
+                <a href="/">
+                    <img src="/images/qubigo-logo-small.png?0.3.4" alt="qubigo-logo" />
+                </a>
+            </div>
+
+            {{ content }}
+        </div>
+</body>
+
+</html>
