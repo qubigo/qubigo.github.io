@@ -18,7 +18,7 @@ Players must develop a 3D strategy while preventing their friends from scoring
 points. With just 27 moves to victory, Qubigo is a game that requires a sharp
 mind and calculated risk-taking.
 
-The desktop version is now for sale, made in Amsterdam by our founders Rob and Anton.
+The desktop game is now for sale in 2 versions, made in Amsterdam by our founders Rob and Anton.
 
 <div class="image-row">
     <img src="images/cube_gesloten_bw.png?0.3.3" alt="">
@@ -28,7 +28,7 @@ The desktop version is now for sale, made in Amsterdam by our founders Rob and A
 
 # The Dutch edition
 
-Are your more interested in the Dutch edition? Click the image below.
+Our second product, the Dutch Edition, features 4 levels and Dutch miniatures of windmills, tulips and Amsterdam houses. Are your more interested in the Dutch edition? Click the image below.
 
 <a href="/sail">
 <img src="images/dutch/dutch_open_filled_400x400.png" alt="dutch open filled"/>
@@ -38,9 +38,9 @@ Are your more interested in the Dutch edition? Click the image below.
 # Qubigo app
 
 With the Qubigo app you can challenge your friends anytime, anywhere.
-The app is currently being tested by a selected group of players. We aim to release Q3 2025.
-Be one of the first in the world to play this game! 
-Leave your email and we let you know when the app is released.
+The app is currently being developed and tested. We aim to release Q1 2026.
+Be one of the first in the world to play this game! If you want to become a test player,
+or want to be updated about the release: Leave your email here.
 
 <form class="form"
     action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfT2swN3VCQUnda3ts0ieLxOP2esuiLtlE7s6WADvSDjioO7g/formResponse"
@@ -54,23 +54,23 @@ Leave your email and we let you know when the app is released.
 
 # Setting up
 
-1. Take the cube out - it's packaged with all the pieces.
+Gently lift the cube out of the box - it's packaged with all the pieces.
 ![take the cube out](images/manual/1-get-out.png)
-2. Twist the magnetic box to find the small hole - it's now a shaker!
+Turn the magnetic box 90 degrees - it's now a shaker!
 ![twist the box](images/manual/2-turn.png)
-3. Pour all pieces from the cube into the shaker.
+Pour all the 27 pieces from the cube into the shaker.
 ![fill the shaker](images/manual/3-fill.png)
-4. Shake out 3 pieces each and place them in front of you.
+Shake out 3 pieces per player and place them in front of you.
 ![shake out](images/manual/4-shake.png)
 
-To make the game more challenging, you can make more than three pieces visible to all players. Ultimate challenge: make all of them visible.
+To make the game more challenging, you can make more than three pieces visible to all players. The more pieces you see, the more strategic it gets. Ultimate challenge: make all pieces visible.
 
 # Game rules
 
 
 ## Objective
 
-Be the player who scores the most points by lining up three pieces that share a common feature in any direction:
+Be the player who scores the most points by lining up three pieces that share a common feature in any direction. Pieces come in 3 structures: solid, open and ribbed
 
 <div class="doc-example">
     <div class="image-explain">color, e.g.:</div>
@@ -100,11 +100,11 @@ Be the player who scores the most points by lining up three pieces that share a 
 ## Gameplay
 
 1. Players take turns making a move.
-1. Place one of your pieces in an open position in any layer in the cube.
-1. The layers fit only in 1 way, Align the Q logo in the middel to click them together.
+2. Place one of your pieces in an open position in any layer in the cube.
+3. Click the three layers togetherby turning the logos in the middle in the same direction.
 ![place](images/manual/5-place.png)
 1. After placing a piece, shake out a new one so you always have three visible.
-5. Record your points. Game ends when the cube is full. Highest score wins.
+5. Record your points with the score card and score pieces. Game ends when the cube is full. 
 
 ## Scoring
 
@@ -164,11 +164,9 @@ For example:
     </div>
 </div>
 
-# Score keeping & online fun
+# Online fun
 
-The Qubigo app can help you to keep the scores.
-
-It also features a timer, to make the gameplay more dynamic.
+With the Qubigo app you can challenge your friends anywhere, anytime.
 
 Leave your email and we let you know when the app is released.
 
