@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Qubigo
+title: Qubigo Home
 ---
 
 <h1>Qubigo is here!<br />
