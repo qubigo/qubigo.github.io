@@ -101,7 +101,7 @@ Be the player who scores the most points by lining up three pieces that share a 
 
 1. Players take turns making a move.
 2. Place one of your pieces in an open position in any layer in the cube.
-3. Click the three layers togetherby turning the logos in the middle in the same direction.
+3. Click the three layers together by turning the logos in the middle in the same direction.
 ![place](images/manual/5-place.png)
 1. After placing a piece, shake out a new one so you always have three visible.
 5. Record your points with the score card and score pieces. Game ends when the cube is full. 
@@ -168,7 +168,9 @@ For example:
 
 With the Qubigo app you can challenge your friends anywhere, anytime.
 
-Leave your email and we let you know when the app is released.
+The app is currently being developed and tested. We aim to release Q1 2026.
+Be one of the first in the world to play this game! If you want to become a test player,
+or want to be updated about the release: Leave your email here.
 
 
 <form class="form"
